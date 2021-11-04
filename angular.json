@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "cloud-build"
+  "defaultProject": "cloud-build",
+  "cli": {
+    "analytics": "67aacad2-35e9-42e4-af6f-7e7e1d7eeeaf"
+  }
 }
